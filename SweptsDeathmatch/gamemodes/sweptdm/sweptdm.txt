@@ -1,0 +1,8 @@
+"sweptdm"
+{
+	"base"		"base"
+	"title"		"Swept's Deathmatch"
+	"maps"		"^sdm_"
+	"menusystem"	"1"
+	"workshopid"	"1296149270"
+}
