@@ -30,7 +30,6 @@ AddCSLuaFile("sv_setupgame.lua")
 AddAmmoType("M84 Grenades", "M84 Grenades")
 
 --[[
-
 Hello, developers and decompilers alike!  Welcome to the code of my first gamemode!
 
 You may be looking at these files thinking "Holy shit!  That's a lot of files!"
@@ -44,5 +43,4 @@ it was the first thing I worked on.  I kinda threw everything there without thin
 While browsing this, you'll probably find a bunch of inefficient shit and maybe
 some unused shit.  If you know of a better way to do something like I mentioned,
 just let me know, and I'll fix it right up.
-
 ]]--
