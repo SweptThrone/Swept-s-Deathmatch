@@ -1,6 +1,12 @@
 # Swept's Deathmatch
 A custom FA:S-based gamemode I worked on during winter break-ish.  Extremely hard-coded, I'm planning to release a "developer" version.
 
+### HEADS UP
+This gamemode is very old and very bad.  
+It's horribly simple with hardly anything too noteworthy to sell it.  
+I made this when I had almost no experience in this area.  
+Use at your own risk!
+
 ### What is it?
 Swept's Deathmatch is a gamemode that's focused on just killing.  No round systems, no score limits, just pure killing.  Earn money by killing, and buy better guns.
 
