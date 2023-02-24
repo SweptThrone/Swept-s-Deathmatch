@@ -1,5 +1,5 @@
 # Swept's Deathmatch
-A custom FA:S-based gamemode I worked on during winter break-ish.  Extremely hard-coded, I'm planning to release a "developer" version.
+A custom FA:S-based gamemode I worked on during winter break-ish.  
 
 ### HEADS UP
 This gamemode is very old and very bad.  
