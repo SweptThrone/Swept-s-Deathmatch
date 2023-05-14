@@ -1,5 +1,4 @@
 # Swept's Deathmatch  
-/!\ Archived because it's old. /!\
 A custom FA:S-based gamemode I worked on during winter break-ish.  
 
 ### HEADS UP
